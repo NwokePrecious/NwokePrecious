@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @NwokePrecious
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning how to write scalable codes
+- 👀 I’m interested in alot of things e.g writing coding 
+- 🌱 I’m a Graphic Designer, UI/UX Designer and a software Developer
 - 💞️ I’m looking to collaborate on projects at aligns with my interest
-- 📫 How to reach me nwokeprecious23@gmail.com, 
-- 😄 Pronouns: she/her
+- 📫 How to reach me nwokeprecious23@gmail.com 
 - ⚡ Fun fact: I love Coding 
 
 <!---
